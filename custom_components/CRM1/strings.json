@@ -1,0 +1,15 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configuración de e-Distribución",
+        "data": {
+          "username": "Usuario",
+          "password": "Contraseña",
+          "gecko_driver_path": "Ruta a GeckoDriver",
+          "firefox_binary_path": "Ruta a Firefox"
+        }
+      }
+    }
+  }
+}

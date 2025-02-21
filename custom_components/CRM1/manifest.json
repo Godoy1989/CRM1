@@ -1,0 +1,11 @@
+{
+  "domain": "edistribucion",
+  "name": "e-Distribución",
+  "documentation": "https://github.com/tu_usuario/edistribucion-integration",
+  "requirements": ["selenium==4.8.0"],
+  "dependencies": [],
+  "codeowners": ["Godoy1989"],
+  "version": "1.0.0",
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}
