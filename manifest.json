@@ -1,0 +1,10 @@
+{
+    "domain": "edistribucion",
+    "name": "e-Distribución",
+    "documentation": "https://github.com/uvejota/edistribucion/",
+    "issue_tracker": "https://github.com/uvejota/edistribucion/issues",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": ["aiohttp", "beautifulsoup4", "aiopvpc>=2.2.0", "tzlocal"],
+    "iot_class": "cloud_polling"
+  }

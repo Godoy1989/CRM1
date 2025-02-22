@@ -1,0 +1,8 @@
+{
+    "name": "edistribucion",
+    "render_readme": true,
+    "country": "ES",
+    "domains": ["sensor"],
+    "homeassistant": "2023.1.0",
+    "content_in_root": true
+  }
